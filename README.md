@@ -1,6 +1,5 @@
 # Café Aurora
 Sitio estático (HTML + CSS) para proyecto Coderhouse.  
-URL (Pages): <pondremos aquí cuando cargue>
 
 ## Estructura
 - index.html
