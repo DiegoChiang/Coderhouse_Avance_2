@@ -13,5 +13,3 @@ URL (Pages): <pondremos aquí cuando cargue>
 - CSS con tokens, grids responsive, sin overflow-x
 - Git: commits y branches con PR → merge a main
 - GitHub Pages activo (deploy desde main/root)
-# Coderhouse_Avance_2
-# Coderhouse_Avance_2
